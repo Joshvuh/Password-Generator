@@ -1,4 +1,4 @@
-# Random Secure Password Generator
+# Random Password Generator
 
 ## Description
 
